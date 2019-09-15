@@ -1,0 +1,61 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "firstname": "jide",
+            "lastname": "adedeji",
+            "email": "jide@gmail.com",
+            "age": 23,
+            "companyId": "1"
+        },
+        {
+            "id": 2,
+            "firstname": "tope",
+            "lastname": "adedeji",
+            "email": "tope@gmail.com",
+            "age": 24,
+            "companyId": "2"
+        },
+        {
+            "id": 3,
+            "firstname": "olu",
+            "lastname": "adedeji",
+            "email": "olu@gmail.com",
+            "age": 25,
+            "companyId": "3"
+        },
+        {
+            "id": 4,
+            "firstname": "bola",
+            "lastname": "adedeji",
+            "email": "bola@gmail.com",
+            "age": 26,
+            "companyId": "2"
+        },
+        {
+            "id": 5,
+            "firstname": "femi",
+            "lastname": "adedeji",
+            "email": "femi@gmail.com",
+            "age": 27,
+            "companyId": "1"
+        }
+    ],
+    "companies": [
+        {
+            "id": 1,
+            "name": "apple",
+            "description": "    apple ipsum dolor sit amet, consectetur adipisicing elit. Sit perferendis id rem laudantium eveniet molestiae, molestias rerum nemo quasi, corporis architecto consectetur et explicabo voluptate iure quaerat suscipit, minus deserunt!"
+        },
+        {
+            "id": 2,
+            "name": "microsoft",
+            "description": "    microsoft ipsum dolor sit amet, consectetur adipisicing elit. Sit perferendis id rem laudantium eveniet molestiae, molestias rerum nemo quasi, corporis architecto consectetur et explicabo voluptate iure quaerat suscipit, minus deserunt!"
+        },
+        {
+            "id": 3,
+            "name": "google",
+            "description": "    google ipsum dolor sit amet, consectetur adipisicing elit. Sit perferendis id rem laudantium eveniet molestiae, molestias rerum nemo quasi, corporis architecto consectetur et explicabo voluptate iure quaerat suscipit, minus deserunt!"
+        }
+    ]
+}
